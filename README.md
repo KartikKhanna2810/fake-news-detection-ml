@@ -28,10 +28,9 @@ This project focuses on detecting fake news articles using Natural Language Proc
 * Support Vector Machine (Best Performing)
 
 # Dataset
+The dataset used in this project is publicly available on Kaggle:
 
-* Fake.csv
-* True.csv
-  (Sourced from Kaggle Fake News Dataset)
+Fake News Dataset: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 # Results
 
